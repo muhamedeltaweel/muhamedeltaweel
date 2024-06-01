@@ -1,7 +1,7 @@
 Hi, My name is Muhamed Eltaweel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Consultant Software Development Engineer in Test
+Software Test Engineer
 -------------------------------------------------
 
 * 🤖  Consultant Software Development Engineer in Test, with 12+ years of experience.
@@ -51,10 +51,8 @@ Consultant Software Development Engineer in Test
 </div>
 <br /><br /><br /><br />
 
-ولو انت بتتكلم عربي, انا جمعت لك كل البوستات اللى عملتها وممكن تفيدك فى مجال الاوتوميشن هنا:
-[أعمال حياتى - اكثر من 100 بوست وفيديو ومقال وبودكاست](https://docs.google.com/spreadsheets/d/1Tf_b7pVEZhwY_ZUarmLGa9tfTpOa_ng-3NeoTa2RjZE/edit?usp=sharing)
-
+و
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MohabMohie/count.svg" />
+  <img src="https://profile-counter.glitch.me/muhamedeltaweel/count.svg" />
 </p>
