@@ -1,18 +1,14 @@
 Hi, My name is Muhamed Eltaweel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Software Test Engineer
--------------------------------------------------
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I+am+Software+Test+Engineer.;I+am+sharing+my+projects+here;I+suggest+you+review+it+to+know+about+me;++++++;)  
 
-* 🤖  Consultant Software Development Engineer in Test, with 12+ years of experience.
-* 👨‍💼  Quality Engineering Manager leading teams of 200+ engineers.
-* 👨‍🏫  Senior Test Automation Instructor with 400+ students.
-* 🗣️  Test Automation speaker at several webinars and events.
-* ⚙️  Creator of [SHAFT_Engine](https://github.com/shafthq/SHAFT_ENGINE).
-* 👥  Co-founder of [Automatest](https://www.facebook.com/groups/Automatest) the largest online Test Automation Hub in the MEA region.
-* 📃  Holding several certificates in Agile Development, Software Quality Control, and Test Automation.
-* 🦇  DC Comics / Batman fan. #restoreTheSnyderverse
-* 🌍  Based in Cairo, Egypt
+-------------------------------------------------
+<h3>About me: </h3> 
+I have experience in testing automation, manual testing, UI testing, and backend testing. For manual tests, I used JIRA-Xray, while UI testing was conducted using Java, Selenium Web Driver, and TestNG. Backend tests were performed using API, Rest Assured, and Postman. Additionally, I collaborated on projects using GitHub.
+
+I possess a solid understanding of the Software Development Lifecycle (SDLC) and the Software Testing Lifecycle (STLC) within Agile/Scrum methodology. I have strong analytical and communication skills, a strong work ethic, the ability to ask insightful questions, and I am organized, detail-oriented, adaptable, and have a fun personality.
+<p></p>
 
 ### Skills
 
