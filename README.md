@@ -1,53 +1,63 @@
 Hi, My name is Muhamed Eltaweel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I+am+Software+Test+Engineer.;I+am+sharing+my+projects+here;I+suggest+you+review+it+to+know+about+me;++++++;)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I+am+Software+Test+Engineer.;)  
 
 -------------------------------------------------
-<h3>About me: </h3> 
-I have experience in testing automation, manual testing, UI testing, and backend testing. For manual tests, I used JIRA-Xray, while UI testing was conducted using Java, Selenium Web Driver, and TestNG. Backend tests were performed using API, Rest Assured, and Postman. Additionally, I collaborated on projects using GitHub.
+<h3>About me 👨‍💼: </h3> 
 
-I possess a solid understanding of the Software Development Lifecycle (SDLC) and the Software Testing Lifecycle (STLC) within Agile/Scrum methodology. I have strong analytical and communication skills, a strong work ethic, the ability to ask insightful questions, and I am organized, detail-oriented, adaptable, and have a fun personality.
-<p></p>
+- **Experienced in testing automation, manual testing, UI testing, and backend testing.**
+- **Performed manual tests using JIRA-Trello-Azure.**
+- **Conducted UI testing with Java, Selenium Web Driver, and TestNG.**
+- **Executed backend tests using API, Rest Assured, and Postman.**
+- **Collaborated on projects using GitHub.**
+- **Solid understanding of Software Development Lifecycle (SDLC) and Software Testing Lifecycle (STLC) within Agile/Scrum methodology.**
+- **Strong analytical and communication skills.**
+- **Demonstrated strong work ethic and ability to ask insightful questions.**
+- **Organized, detail-oriented, adaptable, and have a fun personality.**
 
 ### Skills
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="36" height="36"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="36" height="36"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="36" height="36"/> </a>
-</p>
-
+<div align="left">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</div>
 
 ### Socials
 
 <p align="left">
-<a href="https://www.facebook.com/Mohab.MohieElDeen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/MohabMohie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/MohabMohie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/c/MohabMohieElDeen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 
-### Badges
-
-<b>GitHub Stats</b>
-
-<a href="http://www.github.com/MohabMohie"><img src="https://github-readme-stats.vercel.app/api?username=MohabMohie&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MohabMohie's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-<a href="https://github.com/MohabMohie/SHAFT_Engine" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohabMohie&repo=SHAFT_Engine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/MohabMohie/SHAFT_Engine_Docusaurus" align="right"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=MohabMohie&repo=SHAFT_Engine_Docusaurus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://www.github.com/muhamedeltaweel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/muhamedeltaweel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a>
+<a href="mailto:meltawel9@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo" /></a>
 </div>
-<br /><br /><br /><br />
 
-و
+###
+
+
+
+
+<b>GitHub Status</b>
+<div>
+<a href="http://www.github.com/muhamedeltaweel"><img src="https://github-readme-stats.vercel.app/api?username=muhamedeltaweel&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muhamed Eltaweel's GitHub stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedeltaweel&layout=compact&langs_count-16&theme=dracula"/>
+</div>
+
+
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/muhamedeltaweel/count.svg" />
