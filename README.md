@@ -1,6 +1,6 @@
 # Hi, I'm Muhamed Eltaweel <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23732DA4&center=false&vCenter=true&width=520&lines=Software+Test+Engineer+%40+PoultrySync;QA+Automation+%7C+Playwright+%26+Selenium;ISTQB+CTFL+Certified)](https://git.io/typing-svg)
+<img src="assets/typing.svg" alt="Software Test Engineer @ PoultrySync | QA Automation | ISTQB CTFL Certified"/>
 
 ---
 
@@ -23,20 +23,20 @@ ISTQB-certified Software Test Engineer with 3+ years of experience testing large
 **Test Automation**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="assets/icons/playwright.svg" alt="Playwright" width="40" height="40"/>
+  <img src="assets/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="assets/icons/selenium.svg" alt="Selenium" width="40" height="40"/>
+  <img src="assets/icons/java.svg" alt="Java" width="40" height="40"/>
 </p>
 
 **API, Data & Collaboration**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="assets/icons/postman.svg" alt="Postman" width="40" height="40"/>
+  <img src="assets/icons/jira.svg" alt="Jira" width="40" height="40"/>
+  <img src="assets/icons/git.svg" alt="Git" width="40" height="40"/>
+  <img src="assets/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="assets/icons/intellij.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
 
 **Also:** TestNG · Rest Assured · Newman · Allure Reports · SQL · Agile/Scrum · STLC
@@ -75,9 +75,6 @@ ISTQB-certified Software Test Engineer with 3+ years of experience testing large
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=muhamedeltaweel&theme=dracula&hide_border=true" alt="GitHub streak stats"/>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=muhamedeltaweel&label=Profile%20views&color=0891b2&style=flat" alt="Profile views"/>
+  <img src="profile-summary-card-output/dracula/3-stats.svg" alt="GitHub stats" height="180"/>
+  <img src="profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most used languages" height="180"/>
 </p>
