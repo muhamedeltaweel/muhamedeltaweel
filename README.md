@@ -1,64 +1,83 @@
-Hi, My name is Muhamed Eltaweel ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===================================================================================================================================
+# Hi, I'm Muhamed Eltaweel <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I+am+Software+Test+Engineer.;)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23732DA4&center=false&vCenter=true&width=520&lines=Software+Test+Engineer+%40+PoultrySync;QA+Automation+%7C+Playwright+%26+Selenium;ISTQB+CTFL+Certified)](https://git.io/typing-svg)
 
--------------------------------------------------
-<h3>About me 👨‍💼: </h3> 
+---
 
-- **Experienced in testing automation, manual testing, UI testing, and backend testing.**
-- **Performed manual tests using JIRA-Trello-Azure.**
-- **Conducted UI testing with Java, Selenium Web Driver, and TestNG.**
-- **Executed backend tests using API, Rest Assured, and Postman.**
-- **Collaborated on projects using GitHub.**
-- **Solid understanding of Software Development Lifecycle (SDLC) and Software Testing Lifecycle (STLC) within Agile/Scrum methodology.**
-- **Strong analytical and communication skills.**
-- **Demonstrated strong work ethic and ability to ask insightful questions.**
-- **Organized, detail-oriented, adaptable, and have a fun personality.**
+### 👨‍💼 About Me
 
-### Skills
+ISTQB-certified Software Test Engineer with 3+ years of experience testing large-scale, cloud-based web and mobile applications. I work across manual, API, and database testing, and build test automation with **Playwright (TypeScript)** and **Selenium WebDriver (Java)**.
 
-<div align="left">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</div>
+- 🏢 Currently a **Software Test Engineer at PoultrySync**, testing a cloud-based poultry management system end to end
+- 🔌 Validating backend APIs with **Postman, Newman, and Rest Assured**
+- 🗄️ Verifying data integrity across modules with **SQL**
+- 🤖 Testing an AI-powered chatbot, including **prompt injection** security checks
+- ☁️ Deploying QA tasks to cloud servers and syncing QA artifacts through **Git** in the CI/CD pipeline
+- 🧑‍🏫 Mentoring junior QA testers on test case design and bug reporting
+- 📚 Currently working toward **ISTQB Mobile Application Testing** and **Performance Testing**
 
-### Socials
+---
 
-<p align="left">
+### 🛠️ Tech Stack
 
-<a href="https://www.github.com/muhamedeltaweel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/muhamedeltaweel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a>
-<a href="mailto:meltawel9@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo" /></a>
-</div>
+**Test Automation**
 
-###
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
 
+**API, Data & Collaboration**
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+</p>
 
+**Also:** TestNG · Rest Assured · Newman · Allure Reports · SQL · Agile/Scrum · STLC
 
-<b>GitHub Status</b>
-<div>
-<a href="http://www.github.com/muhamedeltaweel"><img src="https://github-readme-stats.vercel.app/api?username=muhamedeltaweel&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muhamed Eltaweel's GitHub stats" /></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedeltaweel&layout=compact&langs_count-16&theme=dracula"/>
-</div>
+---
 
+### 🚀 Featured Projects
 
+| Project | Type | Stack |
+|---|---|---|
+| [automationexercise](https://github.com/muhamedeltaweel/automationexercise) | UI Test Automation | Java · Selenium WebDriver · TestNG |
+| [Trello-API](https://github.com/muhamedeltaweel/Trello-API) | API Testing | Endpoint coverage with dynamic request bodies |
 
+---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/muhamedeltaweel/count.svg" />
+### 🏅 Certifications
+
+- ✅ **ISTQB – Certified Tester Foundation Level (CTFL)**
+- ⏳ ISTQB – Mobile Application Testing (in progress)
+- ⏳ ISTQB – Performance Testing (in progress)
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/muhamedeltaweel"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:meltawel9@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Gmail"/></a>
+  &nbsp;
+  <a href="https://www.github.com/muhamedeltaweel"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=muhamedeltaweel&theme=dracula&hide_border=true" alt="GitHub streak stats"/>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=muhamedeltaweel&label=Profile%20views&color=0891b2&style=flat" alt="Profile views"/>
 </p>
