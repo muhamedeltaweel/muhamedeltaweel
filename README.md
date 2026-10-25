@@ -49,6 +49,7 @@ ISTQB-certified Software Test Engineer with 3+ years of experience testing large
 |---|---|---|
 | [automationexercise](https://github.com/muhamedeltaweel/automationexercise) | UI Test Automation | Java · Selenium WebDriver · TestNG |
 | [Trello-API](https://github.com/muhamedeltaweel/Trello-API) | API Testing | Endpoint coverage with dynamic request bodies |
+| [HRM-Automation](https://github.com/muhamedeltaweel/HRM-Automation) | UI & API Test Automation | TypeScript · Playwright · POM · GitHub Actions |
 
 ---
 
@@ -68,13 +69,4 @@ ISTQB-certified Software Test Engineer with 3+ years of experience testing large
   <a href="mailto:meltawel9@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Gmail"/></a>
   &nbsp;
   <a href="https://www.github.com/muhamedeltaweel"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="profile-summary-card-output/dracula/3-stats.svg" alt="GitHub stats" height="180"/>
-  <img src="profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most used languages" height="180"/>
 </p>
